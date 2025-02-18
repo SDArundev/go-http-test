@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"test-app/db"
-	"test-app/handler"
-	"test-app/mdw"
+	"go-http-test/db"
+	"go-http-test/handler"
+	"go-http-test/mdw"
 
 	"github.com/jackc/pgx/v5"
 )

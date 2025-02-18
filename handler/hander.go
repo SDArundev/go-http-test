@@ -2,8 +2,8 @@ package handler
 
 import (
 	"fmt"
+	"go-http-test/db"
 	"net/http"
-	"test-app/db"
 	"time"
 
 	"github.com/golang-jwt/jwt/v5"
